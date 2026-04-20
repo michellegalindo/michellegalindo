@@ -4,18 +4,17 @@
 
 </div>
 
-## 👩🏻‍💻 about:me
+## about:me
 
 ```typescript
 const Michelle: StaffEngineer = {
   skills: ["Node", "TS", "Vue Ecosystem", "Microfrontend"],
   experience: "10+ years",
-  status: "Learning AI to build the future 🚀",
   learning: {
     academic: "Postgraduate in Full Stack & Applied AI",
     focus: ["AI-Driven Dev", "LLM Integration"]
   },
-  funFact: "Naming variables is still my final boss 😄"
+  funFact: "Naming variables is still my final boss..."
 };
 ```
 
@@ -25,6 +24,6 @@ const Michelle: StaffEngineer = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=michellegalindo&theme=ambient_gradient&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellegalindo&langs_count=6&theme=buefy&title_color=D1D7E0&bg_color=20283000&text_color=D1D7E0&hide_border=true"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellegalindo&langs_count=4&theme=buefy&title_color=D1D7E0&bg_color=20283000&text_color=D1D7E0&hide_border=true"/>
 
 </div>
