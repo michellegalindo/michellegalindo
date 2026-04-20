@@ -7,14 +7,20 @@
 ## about:me
 
 ```typescript
-const Michelle: Dev = {
-  skills: ["Node", "TS", "Vue Ecosystem", "Microfrontend"],
-  experience: "10+ years",
-  learning: {
-    academic: "Postgraduate in Full Stack & Applied AI",
-    focus: ["AI-Driven Dev", "LLM Integration"]
+const Michelle: Character = {
+  class: "CSS wizard 🪄🔮✨",
+  experience: "10+ years crafting digital products",
+  specialty: "Bending components 🧩 to my will",
+  equipment: {
+    mainHand: ["Node.js", "TypeScript", "Vue", "Nuxt"],
+    offHand: ["React", "Next", "GraphQL"]
   },
-  funFact: "Naming variables is still my final boss"
+  passiveSkills: ["Architecture vision 🧠", "Legacy code necromancy ☠️"],
+  currentQuest: {
+    objective: "Mastering Full Stack & AI-driven development",
+    location: "🏰 Rocketseat Postgraduate Guild",
+    status: "Farming XP 📘"
+  }
 };
 ```
 
