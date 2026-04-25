@@ -10,17 +10,15 @@
 const Michelle: Character = {
   class: "CSS wizard 🪄🔮✨",
   experience: "10+ years crafting digital products",
-  specialty: "Bending components 🧩 to my will",
   equipment: {
-    mainHand: ["Node.js", "TypeScript", "Vue", "Nuxt"],
-    offHand: ["React", "Next", "GraphQL"]
+    mainHand: ["TypeScript", "Vue", "Nuxt"],
+    offHand: ["GraphQL"]
   },
-  passiveSkills: ["Architecture vision 🧠", "Legacy code necromancy ☠️"],
-  currentQuest: {
-    objective: "Mastering Full Stack & AI-driven development",
-    location: "🏰 Rocketseat Postgraduate Guild",
-    status: "Farming XP 📘"
-  }
+  passiveSkills: [
+    "Architecture vision 🧠",
+    "Legacy code necromancy ☠️"
+  ],
+  currentQuest: "Farming XP 📘"
 };
 ```
 
